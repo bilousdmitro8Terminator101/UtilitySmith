@@ -1,5 +1,7 @@
 # Utility Box Console v.1.0.0
 
+Copyright by Dmytro Bilous (bilousdmitro8Terminator101)
+
 ## Installation
 1. Download the latest release
 2. Extract the files.
@@ -78,4 +80,5 @@ No malicious code or suspicious activity was detected during the scan.
 2. The utility is safe for the system.
 
 3. Some features (for example, Mobility Center) are only available on laptops.
+
 
