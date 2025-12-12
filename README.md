@@ -35,7 +35,7 @@ Checking and scanning system files
 Clearing the update cache
 Deleting temporary files (Temp, Prefetch, SoftwareDistribution)
 Running the standard Clean Manage
-Deleting the Windows old folder (This will make it impossible to roll back the system to the previous version
+Deleting the Windows old folder (This action will make it impossible to roll back the system to the previous version
 
 ## Shutdown Console:
 
