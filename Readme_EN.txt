@@ -64,8 +64,8 @@ No malicious code or suspicious activity was detected during the scan.
 4. Display the correct keys to enter Recovery mode (ASUS, Dell, Lenovo, HP, Acer, Samsung, Toshiba, Sony Vaio, Fujitsu Siemens and others)
 5. Check for /fw support to switch to UEFI
 
-## DISKPART:
-Display full information about the selected disk or disk partition Work with physical and virtual disks, cleaning, formatting, restoring the operability of damaged USB \ SD drives, and external HDD \ SSD disks (!!! CAUTION !!! ALL DATA MAY BE DESTROYED)
+## DISKPART
+Display full information about the selected disk or disk partition Work with physical and virtual disks, cleaning, formatting, restoring the operability of damaged USB \ SD devises, and local or external HDD \ SSD disks (!!! CAUTION !!! BE VERY CAREFULL ALL DATA MAY BE DELETED)
 
 ## Features:
 
@@ -83,6 +83,7 @@ Display full information about the selected disk or disk partition Work with phy
 1. To export drivers destination: D:\MyDrivers.
 2. The utility is safe for the system.
 3. Some features (for example, Mobility Center) are only available on laptops.
+
 
 
 
