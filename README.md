@@ -60,7 +60,7 @@ Check support for /fw to enter UEFI
 ## DISKPART:
 
 Display full information about the selected disk or disk partition
-Work with physical and virtual disks, cleaning, formatting, restoring the operability of damaged USB \ SD devises, and local or external HDD \ SSD disks (!!! CAUTION !!! BE VERY CAREFULL ALL DATA MAY BE DELETED)
+Work with physical and virtual disks, cleaning, formatting, restoring the operability of damaged USB \ SD devises, and local or external HDD \ SSD disks (!!! CAUTION !!! USE IT VERY CAREFULL ALL YOUR DATA WILL BE DELETED)
 
 ## Features:
 
