@@ -5,17 +5,17 @@ Copyright by Dmytro Bilous (bilousdmitro8Terminator101)
 ## Installation
 1. Download the latest release from [Releases]
 2. Extract the files.
-3. Run `UtilityBoxConsole.exe as Administrator.
+3. Run BridgeSmith.exe as Administrator.
 
 
 ## Security
 
-Utility Box Console has been tested with [VirusTotal](https://www.virustotal.com/) to ensure that the program is clean and safe to use.  
+BridgeSmith has been tested with [VirusTotal](https://www.virustotal.com/) to ensure that the program is clean and safe to use.  
 No malicious code or suspicious activity was detected during the scan.
 
 ## Description:
 
-- Utility Box Console is a full-fledged console program written in the Windows command line language (Batch). It runs on top of the CMD kernel and provides the user with a set of system utilities and tools through its own menu. The program is designed for quick access to key Windows functions: diagnostics, cleaning, power management, starting system components, and system recovery.
+- BridgeSmith is a full-fledged console program written in the Windows command line language (Batch). It runs on top of the CMD kernel and provides the user with a set of system utilities and tools through its own menu. The program is designed for quick access to key Windows functions: diagnostics, cleaning, power management, starting system components, and system recovery.
 
 ## Key features:
 
@@ -66,7 +66,7 @@ No malicious code or suspicious activity was detected during the scan.
 
 ## DISKPART
 Display full information about the selected disk or disk partition Work with physical and virtual disks, cleaning, formatting, restoring the operability of damaged USB \ SD devises, and local or external HDD \ SSD disks 
-(!!! CAUTION !!! BE VERY CAREFULL ALL DATA MAY BE DELETED)
+(!!! CAUTION !!! USE IT VERY CAREFULLY ALL YOUR DATA WILL BE DELETED)
 
 ## Features:
 
@@ -84,6 +84,7 @@ Display full information about the selected disk or disk partition Work with phy
 1. To export drivers destination: D:\MyDrivers.
 2. The utility is safe for the system.
 3. Some features (for example, Mobility Center) are only available on laptops.
+
 
 
 
