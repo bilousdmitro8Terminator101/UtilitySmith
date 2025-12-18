@@ -62,10 +62,32 @@ Check support for /fw to enter UEFI
 Display full information about the selected disk or disk partition
 Work with physical and virtual disks, cleaning, formatting, restoring the operability of damaged USB \ SD devises, and local or external HDD \ SSD disks (!!! CAUTION !!! USE IT VERY CAREFULL ALL YOUR DATA WILL BE DELETED)
 
-## Robocopy
+## Robocopy — Robust File Copy for Windows
 
-**Robocopy**  (Robust File Copy) — is a built-in Windows utility for reliable copying and synchronization of files and folders.
+**Robocopy** (Robust File Copy) — is a built-in Windows utility for reliable copying and synchronization of files and folders.
 It is much more powerful than standard copying through Explorer and is suitable for working with large amounts of data.
+
+### Key features
+
+**Reliability** — automatically retries on read/write errors.
+**Flexibility** — dozens of keys for configuration (filtering, mirroring `/MIR`, multithreading `/MT`).
+**Logs** — keeps a detailed execution log (`/LOG:file.txt`).
+**Synchronization** — mirrors folders, preserving structure and attributes.
+**Performance** — works faster than standard copying in Explorer.
+
+### Usage Examples
+
+Simple Copy
+robocopy C:\Source D:\Backup
+
+Mirror Copy
+robocopy C:\Source D:\Backup /MIR
+
+Copy with Log
+robocopy C:\Source D:\Backup /LOG:C:\copy_log.txt
+
+Multi-threaded Copy
+robocopy C:\Source D:\Backup /MT:8
 
 ## Features:
 
