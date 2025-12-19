@@ -89,6 +89,9 @@ robocopy C:\Source D:\Backup /LOG:C:\copy_log.txt
 Multi-threaded Copy
 robocopy C:\Source D:\Backup /MT:8
 
+### Sound testing
+Test for sound existence (When you reinstall Windows OS you may not have sound, this feature helps to detect this problem)
+
 ## Features:
 
 Color design for each block (main menu, utilities, DISM, cleaning, shutdown, Boot Menu).
