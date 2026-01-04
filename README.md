@@ -110,4 +110,4 @@ Use the menu to select the desired action.
 Drivers are exported to D:\MyDrivers
 the utility is safe for the system.
 Some features (for example, Mobility Center) are only available on laptops.
-BE CAREFULL Using DISKPART ALL DATA MAY BE DESTROYED)
+BE CAREFULL Using DISKPART ALL DATA MAY BE DELETED)
